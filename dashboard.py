@@ -435,3 +435,4 @@ elif sales_type == "Secondary Sales" and trans_type == "Outgoing":
 
 
    
+
